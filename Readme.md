@@ -16,7 +16,7 @@ This is by far the best course series on deep learning that I've taken. Enjoy!
 
 ## Specialization Certificate
 
-At last I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specializat ion/4ZSHVM5ZBXP7) as well as a [badge](https://www.credly.com/go/SBh0JCcP)!
+At last I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/4ZSHVM5ZBXP7) as well as a [badge](https://www.credly.com/go/SBh0JCcP)!
 
 ![](Certificate.pdf)
 
